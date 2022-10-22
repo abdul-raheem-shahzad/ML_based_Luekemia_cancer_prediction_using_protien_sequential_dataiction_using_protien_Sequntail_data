@@ -1,2 +1,16 @@
-# ML_based_Luekemia_cancer_prediction_using_protien_sequential_dataiction_using_protien_Sequntail_data
-In this project we are predicting weather a person i sinfected from Blood cancer or not
+# ML Based Luekemia Cancer Prediction Using Protien Sequential
+In this project we are foucing weahter a person ifected from CML or not based on Protien Sequences
+Data Preprocedding Techniques:
+- Outlier Removal using Quantile method
+- Putting mean in Null values
+- Data Augmentation
+### ML Agorithms Used:
+- Random Forest
+- Decison Tree
+- Logisitc Regression
+- XG boost
+- KNN.
+- SVM.
+- The XG Boost Acheived an accuracy of 94.5%
+
+
