@@ -1,0 +1,2 @@
+# ML_based_Luekemia_cancer_prediction_using_protien_sequential_dataiction_using_protien_Sequntail_data
+In this project we are predicting weather a person i sinfected from Blood cancer or not
